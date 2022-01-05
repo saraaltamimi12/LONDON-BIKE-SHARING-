@@ -1,14 +1,7 @@
 # LONDON-BIKE-SHARING-
 
-Girl in cycyling
 
-Appenddix -click on the link:
 
-OVERVIEW
-MOTIVATIONS
-THE OBJECTIVE
-DESCRIBE DATA
-TOOLS
 OVERVIEW:
 
 The London Public Bike Scheme is a great way to get around the city, and getting started is very easy: just rent a bike, ride it wherever you want, and return it to any of the docking stations around the city. bike-sharing company The London Cycling Infrastructure Database (CID) is the world's largest and most comprehensive database of cycling infrastructure, containing extensive infrastructure details and weather news in the capital. </a>
